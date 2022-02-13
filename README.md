@@ -12,3 +12,7 @@ oluşacak şekilde düzenleyin.
 3 konu da makale olarak yazılmalı ve repo’larınızın içerisine pdf olarak veya .md formatında 
 yazılmalıdır. Ayrıca medium hesabınız yoksa oluşturup, teslim tarihi sonrasında hesabınızdan 
 paylaşmanız gereklidir. 
+
+
+
+HW2.pdf dosyasında sorular cevaplanmış olup factory design pattern  ödevi ile birlikte HepsiBurada klasörünün içinde yer almaktadır
